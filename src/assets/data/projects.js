@@ -6,6 +6,7 @@ const projects = [
     image: "/images/ems.png",
     demo: "https://teamtrackdashboard.netlify.app",
     github: "https://github.com/Paras9771/Employee-Management-System-Dashboard",
+    tech: ["React.js", "Tailwind CSS", "Framer Motion", "Role-Based UI", "Netlify"],
   },
   {
     title: "DogStudio – 3D Portfolio Website",
@@ -14,6 +15,7 @@ const projects = [
     image: "/images/dog-studio.png",
     demo: "https://dogstudio-3d-portfolio.netlify.app",
     github: "https://github.com/Paras9771/dogstudio-3d-portfolio",
+    tech: ["React.js", "Tailwind CSS", "Framer Motion", "3D UI", "Netlify"],
   },
   {
     title: "All Gadget World – E-Commerce Website",
@@ -22,6 +24,7 @@ const projects = [
     image: "/images/e-commerce.png",
     demo: "https://allgadgetzone.netlify.app",
     github: "https://github.com/Paras9771/gadgetworld",
+    tech: ["React.js", "Tailwind CSS", "Product Listing", "Routing", "Netlify"],
   },
   {
     title: "AI Snake Game Agent",
@@ -30,6 +33,7 @@ const projects = [
     image: "/images/AI Snake.png",
     demo: "https://paras9771.github.io/Snake-Game-AI-Agent/",
     github: "https://github.com/Paras9771/Snake-Game-AI-Agent?tab=readme-ov-file",
+    tech: ["JavaScript", "HTML", "CSS", "Reinforcement Learning", "GitHub Pages"],
   },
   {
     title: "Weather Application",
@@ -38,6 +42,7 @@ const projects = [
     image: "/images/Weather.png",
     demo: "https://paras9771.github.io/weather-app/",
     github: "https://github.com/paras9771/weather-app",
+    tech: ["HTML", "CSS", "JavaScript", "Weather API", "GitHub Pages"],
   },
   {
     title: "Kanban Task Management Board",
@@ -46,6 +51,7 @@ const projects = [
     image: "/images/Kanban.png",
     demo: "https://paras9771.github.io/Kanban-Task-Management-Board/",
     github: "https://github.com/Paras9771/Kanban-Task-Management-Board",
+    tech: ["React.js", "Tailwind CSS", "Drag & Drop", "State Management", "GitHub Pages"],
   },
   {
     title: "Interactive To-Do List Application",
@@ -54,6 +60,7 @@ const projects = [
     image: "/images/todo.png",
     demo: "https://paras9771.github.io/Interactive-ToDo-app/",
     github: "https://github.com/Paras9771/Interactive-ToDo-app?tab=readme-ov-file",
+    tech: ["HTML", "CSS", "JavaScript", "Local Storage", "GitHub Pages"],
   },
 ];
 

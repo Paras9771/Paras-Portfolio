@@ -4,7 +4,7 @@ import ParticlesBg from "../common/ParticlesBg";
 export default function Hero() {
   return (
     <section
-      id="hero"
+      id="about"
       className="relative min-h-screen flex items-center text-white px-6 overflow-hidden"
     >
       {/* Particles Background */}
@@ -32,7 +32,7 @@ export default function Hero() {
 
           <span className="inline-block mb-5 px-5 py-2 rounded-full text-sm font-medium
           bg-gradient-to-r from-sky-400/20 to-blue-500/20 text-sky-400 border border-sky-400/30">
-            🚀 Open for Internships & Junior Roles
+            🚀 Open to Junior Frontend / React Developer Roles
           </span>
 
           <h1 className="text-4xl md:text-6xl font-extrabold leading-tight">
