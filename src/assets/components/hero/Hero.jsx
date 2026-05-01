@@ -48,7 +48,7 @@ export default function Hero() {
             transition={{ delay: 0.4 }}
             className="mt-3 text-xl md:text-2xl text-sky-400 font-semibold"
           >
-            React Developer | Frontend Engineer
+            Next.js Developer | React Developer | Frontend Engineer
           </motion.h2>
 
           <p className="mt-5 text-lg text-gray-300 max-w-xl">
@@ -67,7 +67,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="/Paras Tomar.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-5 md:px-6 py-2 md:py-3 rounded-lg bg-white/10 border border-white/30 hover:bg-white/20 transition text-center"
@@ -76,7 +76,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="/Paras Tomar.pdf"
               download="Paras_Tomar_Resume.pdf"
               className="px-5 md:px-6 py-2 md:py-3 rounded-lg bg-white/10 border border-white/30 hover:bg-white/20 transition text-center"
             >

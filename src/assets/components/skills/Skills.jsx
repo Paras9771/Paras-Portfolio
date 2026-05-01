@@ -4,9 +4,10 @@ const skills = [
   { name: "HTML", icon: "🌐" },
   { name: "CSS", icon: "🎨" },
   { name: "JavaScript", icon: "⚡" },
+  { name: "Next.js", icon: "▲" },
   { name: "React JS", icon: "⚛️" },
   { name: "Tailwind CSS", icon: "💨" },
-  { name: "Java", icon: "☕" },
+  { name: "GSAP", icon: "🎯" },
   { name: "DSA", icon: "🧠" },
   { name: "Git & GitHub", icon: "🐙" }
 ];
