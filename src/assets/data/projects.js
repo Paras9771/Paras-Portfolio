@@ -1,5 +1,14 @@
 const projects = [
   {
+    title: "International Tyre Booking & Service Platform",
+    description:
+      "Built a responsive tyre booking platform with vehicle-based search, service modules, and optimized performance using Next.js. Applied SEO and modern UI animations for enhanced user experience.",
+    image: "/images/Tyre.png",
+    demo: "https://tyre-store-eosin.vercel.app/",
+    github: "https://github.com/Paras9771/TyreStore",
+    tech: ["Next.js", "React.js", "Tailwind CSS", "Framer Motion", "Responsive Design", "SEO"],
+  },
+  {
     title: "Employee Management System Dashboard",
     description:
       "Role-based employee task management system with admin and employee dashboards, task tracking, and performance overview.",
@@ -15,7 +24,7 @@ const projects = [
     image: "/images/dog-studio.png",
     demo: "https://dogstudio-3d-portfolio.netlify.app",
     github: "https://github.com/Paras9771/dogstudio-3d-portfolio",
-    tech: ["React.js", "Tailwind CSS", "Framer Motion", "3D UI", "Netlify"],
+    tech: ["React.js", "Tailwind CSS", "Framer Motion", "3D UI", "Netlify", "GSAP"],
   },
   {
     title: "All Gadget World – E-Commerce Website",
@@ -25,6 +34,15 @@ const projects = [
     demo: "https://allgadgetzone.netlify.app",
     github: "https://github.com/Paras9771/gadgetworld",
     tech: ["React.js", "Tailwind CSS", "Product Listing", "Routing", "Netlify"],
+  },
+    {
+    title: "Kanban Task Management Board",
+    description:
+      "Drag-and-drop Kanban board for managing tasks across multiple workflow stages.",
+    image: "/images/kanban.png",
+    demo: "https://paras9771.github.io/Kanban-Task-Management-Board/",
+    github: "https://github.com/Paras9771/Kanban-Task-Management-Board",
+    tech: ["React.js", "Tailwind CSS", "Drag & Drop", "State Management", "GitHub Pages"],
   },
   {
     title: "AI Snake Game Agent",
@@ -44,15 +62,7 @@ const projects = [
     github: "https://github.com/paras9771/weather-app",
     tech: ["HTML", "CSS", "JavaScript", "Weather API", "GitHub Pages"],
   },
-  {
-    title: "Kanban Task Management Board",
-    description:
-      "Drag-and-drop Kanban board for managing tasks across multiple workflow stages.",
-    image: "/images/Kanban.png",
-    demo: "https://paras9771.github.io/Kanban-Task-Management-Board/",
-    github: "https://github.com/Paras9771/Kanban-Task-Management-Board",
-    tech: ["React.js", "Tailwind CSS", "Drag & Drop", "State Management", "GitHub Pages"],
-  },
+
   {
     title: "Interactive To-Do List Application",
     description:

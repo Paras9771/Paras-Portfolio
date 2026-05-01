@@ -58,6 +58,22 @@ export default function Achievements() {
             </p>
           </motion.div>
 
+          <motion.div
+            whileHover={{ scale: 1.05 }}
+            className="bg-white/10 backdrop-blur-xl border border-white/20 rounded-2xl p-8 
+  shadow-lg shadow-sky-500/10 hover:shadow-sky-500/30 transition"
+          >
+            <h3 className="text-sky-400 text-lg font-semibold mb-3">
+              📄 Research Paper Publication
+            </h3>
+            <p className="text-gray-300 text-sm leading-relaxed">
+              Published a research paper in an IEEE Conference at Amity University,
+              presenting innovative approaches to solve real-world problems. Gained
+              hands-on experience in research methodology, technical documentation,
+              and professional presentation.
+            </p>
+          </motion.div>
+
         </div>
 
       </div>
