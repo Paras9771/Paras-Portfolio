@@ -24,7 +24,7 @@ export default function ParticlesBg() {
           move: { enable: true }
         }
       }}
-      className="absolute inset-0"
+      className="absolute inset-0 w-full h-full"
     />
   );
 }

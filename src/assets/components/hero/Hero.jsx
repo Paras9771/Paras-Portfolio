@@ -5,10 +5,10 @@ export default function Hero() {
   return (
     <section
       id="about"
-      className="relative min-h-screen flex items-center text-white px-6 overflow-hidden"
+      className="relative min-h-screen flex items-center text-white px-4 md:px-6 overflow-hidden"
     >
       {/* Particles Background */}
-      <div className="absolute inset-0 z-0">
+      <div className="absolute inset-0 z-0  overflow-hidden">
         <ParticlesBg />
       </div>
 

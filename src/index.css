@@ -2,4 +2,9 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;   /* 🔥 add this */
+}
+
+body {
+  overflow-x: hidden;   /* 🔥 add this */
 }
