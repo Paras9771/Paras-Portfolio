@@ -67,7 +67,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/Paras Tomar.pdf"
+              href="\Paras Tomar.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-5 md:px-6 py-2 md:py-3 rounded-lg bg-white/10 border border-white/30 hover:bg-white/20 transition text-center"
@@ -76,7 +76,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/Paras Tomar.pdf"
+              href="\Paras Tomar.pdf"
               download="Paras_Tomar_Resume.pdf"
               className="px-5 md:px-6 py-2 md:py-3 rounded-lg bg-white/10 border border-white/30 hover:bg-white/20 transition text-center"
             >
